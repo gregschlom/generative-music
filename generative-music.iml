@@ -8,6 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sequencememoizer-1.1-jar-with-dependencies" level="project" />
+    <orderEntry type="library" name="guava-13.0.1" level="project" />
   </component>
 </module>
 
